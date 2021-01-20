@@ -16,9 +16,9 @@ Time matters because as the games have grown in popularity, so have the emergenc
 ___
 ### Description of Our Data Sources
 - https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results. Historical dataset containing information on all the olympic games from 1896 - 2016. Data includes physiological data on every athlete such as (height, weight, age) as well as data such as athletes hometown/country, sport, and placing in each event.
-- https://data.world/sports/olympics  A dataset containing information about the cost of each Olympic for the respective host country. This data is broken down into cost per event and cost per athlete in the Olympic games starting from the Tokyo 1964 Olympics.
+- https://data.world/sports/olympics  A dataset containing information about the cost of each Olympic for the respective host country. This data is broken down into cost per event and cost per athlete in the Olympic games starting from the Tokyo 1964 Olympics and continueing to the 2014 Sochi winter games. 
 - https://data.world/sports/women-in-the-olympic-games This dataset maps out the years when womens events were introduced, as well as the total number of female athletes participating in those games.
-- https://data.world/msantolini/individual-performance-in-team/workspace/project-s ummary?agentid=msantolini&datasetid=individual-performance-in-team This dataset gives information into the individual and team podium performances throughout the years. The dataset includes data of country of origin for athletes.
+- https://data.world/msantolini/individual-performance-in-team/workspace/project-s ummary?agentid=msantolini&datasetid=individual-performance-in-team This dataset gives insight into the individual and team podium performances throughout the years of different countries athletes. The dataset includes data about the country of origin for athletes, individual medals received by athletes, and the total medals received by the team.
 ___ 
 ### Analysis and Resulting Visualizations of our Project
 We hope to find compelling visualizations that will show us the economic impact the games have made on host countries throughout recent years. 
