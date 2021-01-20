@@ -29,4 +29,4 @@ Visualizations that result from this could be 2 line graphs overlapping each oth
 
 ____
 ### Conclusion
-In the end, we hope to find valuable insights into the broad impacts the games have on society, the economy, as well as the athletes themselves. By learning more about these impacts, we hope to bring awareness to both the positive and negative aspects of the games in hopes of hypothesizing ways in which we could mitigate the negative impacts. We hope our research will compel ourselves and others to think about the Olympics and continue to strive to maintain them as outlets for unity and cooperation between nations around the world.
+In the end, we hope to gain valuable insight into the broad impacts the games have on society, the economy, and the athletes themselves. By learning more about these impacts, we hope to bring awareness to both the positive and negative aspects of the games in hopes of hypothesizing ways in which we could mitigate the negative impacts. We hope our research will compel ourselves and others to think about the Olympics and continue to strive to maintain them as outlets for unity and cooperation between nations around the world.
