@@ -1,5 +1,5 @@
 # *__DH140 Project Proposal__*
-## :ascension_island: :argentina::armenia::bosnia_herzegovina::bulgaria::bouvet_island::fiji::gb:Welcome to the Olympics :costa_rica::cuba::algeria::western_sahara::estonia::dominican_republic::ceuta_melilla:
+## :ascension_island: :argentina::armenia::bosnia_herzegovina::bulgaria::fiji::gb:Welcome to the Olympics :costa_rica::cuba::algeria::western_sahara::estonia::dominican_republic::ceuta_melilla:
 ##### By Juliette Oliver and Adam Kaba
 ### _A Look Into Our Research Question_
 
