@@ -22,7 +22,10 @@ ___
 ___ 
 ### Analysis and Resulting Visualizations of our Project
 We hope to find compelling visualizations that will show us the economic impact the games have made on host countries throughout recent years. 
+Possibilities to show this include making a line graph that plots the economic strain put on by the Olympics as time has passed.
 In addition, we hope to make other visualizations that demonstrate the emergence of female sports and the success of host countries athletes in order to compare the findings of both in accordance with economic change.
+Visualizations that result from this could be 2 line graphs overlapping each other, where one line represents economic impact while the other represents introduction or women's events into the games. In addition, we could create a bar graph that has bars representing the success of the host countries athletes in comparison with the economic burden of the games on sed country.
+
 ____
 ### Conclusion
 
