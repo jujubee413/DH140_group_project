@@ -1,7 +1,7 @@
 # *__DH140 Project Proposal__*
 ##  :argentina::armenia::bosnia_herzegovina::bulgaria::fiji::gb:Welcome to the Olympics :cuba::algeria::western_sahara::estonia::dominican_republic::ceuta_melilla:
 ##### By Juliette Oliver and Adam Kaba
-Please see our current progress midterm progress [here](https://github.com/jujubee413/DH140_group_project/blob/main/Midterm%20Final.ipynb)
+Please see our current progress midterm progress [here](https://github.com/jujubee413/DH140_group_project/blob/main/Midterm%20Final.ipynb).
 Here is a link to our [Midterm Presentation](https://docs.google.com/presentation/d/1UiD7jskcQLD23IoZqYzIqlLCXQpQZe9jkwtPIreMATw/edit#slide=id.g9a4175c6c2_0_246)
 ### _A Look Into Our Research Question_
 
